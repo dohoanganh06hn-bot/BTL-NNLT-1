@@ -1,10 +1,10 @@
 #include <iostream>
 #include <string>
-#include <sqlite3.h>
+#include "sqlite3.h"
 #include "nhanvien.h"
 #include "sinhvien.h"
-#include "menuManagement.cpp"
-#include "studentScreens.cpp"
+#include "menuManagement.h"
+#include "studentScreens.h"
 
 using namespace std;
 
